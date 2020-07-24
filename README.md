@@ -11,6 +11,7 @@ The results obtained for 2017 indicate that it was a good year for the selected 
 ## Performance for 2017
 The nested loops macro took about 0.85 seconds to complete while the refactored version took about 0.15 seconds, that is a **567%** increase in performance.
 Nested Loop macro                | Refactored macro
+:-------------------------------:|:-------------------------------------:
 ![](Resources/Original_2017.png) | ![](Resources/VBA_Challenge_2017.png) 
 
 ## Stock results for 2018
