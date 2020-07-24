@@ -16,6 +16,8 @@ Nested Loop Macro                | Refactored Macro
 
 ## Stock results for 2018
 The results obtained for 2017 indicate that it was a bad year for the selected companies with *JKS* and *DQ* having a return of under **-60%**. *ENPH* and *RUN* were the only company with a positive yearly return. Interestingly, most companies had a greater volume in 2018 than in 2017, which indicates that even though there were more transactions, this companies lost credibility.
+2018 Stocks Results
+:-------------------:
 ![](Resources/Stocks_2018.png)
 ## Performance for 2018
 The nested loops macro took about 0.85 seconds to complete while the refactored version took about 0.15 seconds, that is a 567% increase in performance.
