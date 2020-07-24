@@ -10,12 +10,14 @@ The results obtained for 2017 indicate that it was a good year for the selected 
 ![](Resources/Stocks_2017.png)
 ## Performance for 2017
 The nested loops macro took about 0.85 seconds to complete while the refactored version took about 0.15 seconds, that is a **567%** increase in performance.
-![](Resources/Original_2017.png) ![](Resources/VBA_Challenge_2017.png) 
+Nested Loop macro                | Refactored macro
+![](Resources/Original_2017.png) | ![](Resources/VBA_Challenge_2017.png) 
 
 ## Stock results for 2018
 The results obtained for 2017 indicate that it was a bad year for the selected companies with *JKS* and *DQ* having a return of under **-60%**. *ENPH* and *RUN* were the only company with a positive yearly return. Interestingly, most companies had a greater volume in 2018 than in 2017, which indicates that even though there were more transactions, this companies lost credibility.
 ![](Resources/Stocks_2018.png)
 ## Performance for 2018
 The nested loops macro took about 0.85 seconds to complete while the refactored version took about 0.15 seconds, that is a 567% increase in performance.
-![](Resources/Original_2018.png) ![](Resources/VBA_Challenge_2018.png) 
+Nested Loop macro                | Refactored macro
+![](Resources/Original_2018.png) | ![](Resources/VBA_Challenge_2018.png) 
 
